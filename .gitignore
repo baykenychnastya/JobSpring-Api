@@ -1,0 +1,6 @@
+.venv
+chroma-db-nccn
+
+.env
+__pycache__/
+files
