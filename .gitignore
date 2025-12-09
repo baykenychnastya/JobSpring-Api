@@ -1,6 +1,17 @@
-.venv
-chroma-db-nccn
-
-.env
+# Python-generated files
 __pycache__/
-files
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# LangGraph studio
+.langgraph_api

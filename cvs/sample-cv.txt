@@ -1,0 +1,75 @@
+JOHN DOE
+Senior Software Engineer
+
+Contact Information:
+Email: john.doe@email.com
+Phone: +1 (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 8+ years of expertise in full-stack development, cloud architecture, and team leadership. Proven track record of delivering scalable solutions and mentoring junior developers. Passionate about clean code and agile methodologies.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java, Go
+Frameworks: FastAPI, Django, React, Node.js, Express
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Tools: Git, Jenkins, GitHub Actions, Jira
+
+LANGUAGES
+- English (Native)
+- Spanish (Professional working proficiency)
+- French (Elementary proficiency)
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Tech Innovations Inc. | San Francisco, CA
+January 2020 - Present
+- Led development of microservices architecture serving 2M+ daily active users
+- Implemented CI/CD pipeline reducing deployment time by 60%
+- Mentored 5 junior developers, conducting code reviews and pair programming sessions
+- Designed and deployed RESTful APIs using FastAPI and PostgreSQL
+- Collaborated with product team to define technical requirements and roadmap
+
+Software Engineer | Digital Solutions Corp | San Jose, CA
+June 2017 - December 2019
+- Built and maintained full-stack web applications using React and Node.js
+- Optimized database queries resulting in 40% improvement in application performance
+- Participated in agile scrum ceremonies and sprint planning
+- Implemented automated testing suite increasing code coverage to 85%
+
+Junior Developer | StartUp Labs | Remote
+August 2015 - May 2017
+- Developed features for SaaS platform using Django and PostgreSQL
+- Fixed bugs and improved application stability
+- Collaborated with cross-functional teams on product features
+
+EDUCATION
+
+Bachelor of Science in Computer Science | Stanford University | Stanford, CA
+September 2011 - June 2015
+GPA: 3.7/4.0
+Relevant Coursework: Algorithms, Data Structures, Software Engineering, Distributed Systems
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2021)
+- Certified Kubernetes Administrator (CKA) (2022)
+- Professional Scrum Master I (PSM I) (2020)
+
+PROJECTS
+
+E-Commerce Platform Redesign
+- Redesigned legacy e-commerce platform handling $10M+ in annual transactions
+- Implemented microservices architecture with Docker and Kubernetes
+- Reduced page load time by 50% and improved conversion rate by 15%
+
+Open Source Contributions
+- Active contributor to FastAPI and Pydantic projects
+- Maintained personal open-source project with 500+ GitHub stars
+- Regular participant in Python community events and meetups
+
+Machine Learning Pipeline
+- Built automated ML pipeline for customer segmentation
+- Implemented using Python, Scikit-learn, and Apache Airflow
+- Improved marketing campaign targeting accuracy by 25%
